@@ -18,7 +18,7 @@ export default {
     return{
       data:"123"
     }
-  }
+  },
   mounted(){}
 }
 </script>

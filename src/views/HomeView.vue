@@ -13,6 +13,12 @@ export default {
   name: 'HomeView',
   components: {
     HelloWorld
-  }
+  },
+  data(){
+    return{
+      data:"123"
+    }
+  },
+  mounted(){}
 }
 </script>

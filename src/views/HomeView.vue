@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <span style="color:red">husky_eslint</span>,
   </div>
 </template>
 
@@ -18,7 +19,7 @@ export default {
     return{
       data:"123"
     }
-  },
+  }
   mounted(){}
 }
 </script>

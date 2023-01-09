@@ -1,8 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <span style="color:red">husky_eslint</span>,
+    <img alt="Vue logo" src="../assets/logo.png" />
+    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <span style="color: red">husky_eslint</span>
   </div>
 </template>
 
@@ -15,11 +15,11 @@ export default {
   components: {
     HelloWorld
   },
-  data(){
-    return{
-      data:"123"
+  data () {
+    return {
+      data: '123'
     }
   },
-  mounted(){}
+  mounted () {}
 }
 </script>

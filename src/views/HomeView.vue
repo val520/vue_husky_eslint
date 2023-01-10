@@ -20,6 +20,9 @@ export default {
       data: '123'
     }
   },
-  mounted () {}
+  mounted () {
+    let a = '23112'
+    console.log(a);
+  }
 }
 </script>
